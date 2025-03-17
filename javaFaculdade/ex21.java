@@ -2,7 +2,7 @@ package javaFaculdade;
 
 import java.util.Scanner;
 
-public class ex21 {
+public class Ex21 {
 
 	public static void main(String[] args) {
 		Scanner teclado = new Scanner(System.in);

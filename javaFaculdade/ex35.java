@@ -2,7 +2,7 @@ package javaFaculdade;
 
 import java.util.Calendar;
 
-public class ex35 {
+public class Ex35 {
 
 	public static void main(String[] args) {
 		Calendar calendario = Calendar.getInstance();

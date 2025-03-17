@@ -1,6 +1,6 @@
 package javaFaculdade;
 
-public class entregar {
+public class Entregar {
 
     public static void main(String[] args) {
         double faturamentoEmpresaA = 500000;
